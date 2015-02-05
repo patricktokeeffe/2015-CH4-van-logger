@@ -1,0 +1,7 @@
+
+To answer:
+
+* Will anything be aggregated on half-hours?
+* How should flags in sonic data propagate at ->1Hz aggregation?
+    * Discard flagged points, report NAN if < 1/2 remain
+    * Trump
