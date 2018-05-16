@@ -8,7 +8,7 @@ Data acquisition system based around Campbell Scientific CR1000 datalogger.
 
 ### Instruments installed in van
 
-|
+| | | |
 |--------------------------|---------|--------------|
 | SF6 analyzer             |         | *in-house*   | 
 | CH4/CO2/H2O analyzer     | Picarro | G2301-f      |
